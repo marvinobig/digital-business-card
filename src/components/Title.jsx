@@ -5,7 +5,7 @@ export default function Title() {
         <section className="title">
             <h1>Marvin Obig</h1>
             <p>Frontend Developer</p>
-            <p id="email">mobig.web@gmail.com</p>
+            <p id="email">mob@gmail.com</p>
         </section>
     )
 }
